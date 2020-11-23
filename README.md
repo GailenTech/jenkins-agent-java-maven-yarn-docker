@@ -1,7 +1,8 @@
 
-# FORKED KEEP apriljokers TO KEEP A COPY UNDER CONTROL
+# FORKED FROM *apriljokers* TO KEEP A COPY UNDER CONTROL
 
-I used "midmarch" image in docker hub until it dissapeared, and some of my pipelines stopped working.
+I've used "midmarch" image from Docker Hub until it recently dissapeared and some of my pipelines stopped working.
+
 Just forking this one to keep control.
 
 
